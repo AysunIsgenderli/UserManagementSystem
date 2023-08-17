@@ -1,0 +1,72 @@
+[
+  {
+    "name": "DIA",
+    "value": 4,
+    "fill": "#d64161"
+  },
+  {
+    "name": "ADNSU",
+    "value": 13,
+    "fill": "#6b5b95"
+  },
+  {
+    "name": "BDU",
+    "value": 7,
+    "fill": "#feb236"
+  },
+  {
+    "name": "BMU",
+    "value": 8,
+    "fill": "#ff7b25"
+  },
+  {
+    "name": "XU",
+    "value": 2,
+    "fill": "#eea29a"
+  },
+  {
+    "name": "ADU",
+    "value": 1,
+    "fill": "#618685"
+  },
+  {
+    "name": "UNEC",
+    "value": 15,
+    "fill": " #86af49"
+  },
+  {
+    "name": "AzMIU",
+    "value": 2,
+    "fill": "#ada397"
+  },
+  {
+    "name": "AzTU",
+    "value": 2,
+    "fill": "#3e4444"
+  },
+  {
+    "name": "ATMU",
+    "value": 1,
+    "fill": "#b1cbbb"
+  },
+  {
+    "name": "BANM",
+    "value": 2,
+    "fill": "#92a8d1"
+  },
+  {
+    "name": "GDU",
+    "value": 1,
+    "fill": "#e6e600"
+  },
+  {
+    "name": "BAU",
+    "value": 1,
+    "fill": "#b2b2b2"
+  },
+  {
+    "name": "ADPU",
+    "value": 1,
+    "fill": "#bc5a45"
+  }
+]

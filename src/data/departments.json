@@ -1,0 +1,398 @@
+[
+  {
+    "id": "IT-WEB",
+    "title": "Information Technology",
+    "desc": "Software development is a diverse field, encompassing various roles such as software engineers, front-end developers, back-end developers, full-stack developers, mobile app developers, and more. It's a rewarding but constantly evolving field that requires a mix of technical skills, creativity, and problem-solving abilities.",
+    "imageURL": "https://www.webskittersacademy.in/wp-content/uploads/2015/08/Web-Developer-skill.jpg",
+    "students": [
+      {
+        "id": 1,
+        "name": "Aysun İsgəndərli",
+        "age": 23,
+        "university": "Azərbaycan Respublikasının Prezidenti yanında Dövlət İdarəçilik Akademiyası"
+      },
+      {
+        "id": 2,
+        "name": "Lalə Həşimli",
+        "age": 20,
+        "university": "Bakı Mühəndislik Universiteti"
+      },
+      {
+        "id": 3,
+        "name": "Aytən Bayramova",
+        "age": 23,
+        "university": "Azərbaycan Respublikasının Prezidenti yanında Dövlət İdarəçilik Akademiyası"
+      },
+      {
+        "id": 4,
+        "name": "Hacı Mehdixanlı",
+        "age": 20,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 5,
+        "name": "Asif Hüseynzadə",
+        "age": 22,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 6,
+        "name": "Şəbnəm Məmmədova",
+        "age": 19,
+        "university": "Bakı Mühəndislik Universiteti"
+      },
+      {
+        "id": 7,
+        "name": "Cahangir Əsgərov",
+        "age": 20,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 8,
+        "name": "Fatimə Məmmədova",
+        "age": 20,
+        "university": "Gəncə Dövlət Universiteti"
+      },
+      {
+        "id": 9,
+        "name": "Rəhilə Şəfiyeva",
+        "age": 21,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 10,
+        "name": "Aysel Abdullayeva",
+        "age": 20,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 11,
+        "name": "Ramin Allahverdiyev",
+        "age": 21,
+        "university": "Bakı Mühəndislik Universiteti"
+      },
+      {
+        "id": 12,
+        "name": "Zaminəli Rüstəmov",
+        "age": 20,
+        "university": "Bakı Dövlət Universiteti"
+      },
+      {
+        "id": 13,
+        "name": "Gülşən Əzimli",
+        "age": 20,
+        "university": "Azərbaycan Respublikasının Prezidenti yanında Dövlət İdarəçilik Akademiyası"
+      },
+      {
+        "id": 14,
+        "name": "Muxammed Layicov",
+        "age": 20,
+        "university": "Bakı Mühəndislik Universiteti"
+      },
+      {
+        "id": 15,
+        "name": "Ağasəf Məhərrəmov",
+        "age": 21,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 16,
+        "name": "Anar Kərimli",
+        "age": 21,
+        "university": "Xəzər Universiteti"
+      },
+      {
+        "id": 17,
+        "name": "Murad Tağıyev",
+        "age": 21,
+        "university": "Bakı Ali Neft Məktəbi"
+      },
+      {
+        "id": 18,
+        "name": "Xəyalə Əliyeva",
+        "age": 20,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      }
+    ]
+  },
+  {
+    "id": "IT-DM",
+    "title": "Digital Marketing",
+    "desc": "Digital marketing is a dynamic field that evolves alongside technology and consumer behavior. Successful digital marketing campaigns require a deep understanding of your target audience, the right mix of strategies, continuous monitoring, and adaptation based on data-driven insights.",
+    "imageURL": "https://elements-cover-images-0.imgix.net/e1d975d3-d95b-4c35-b011-d79bfe892dc6?auto=compress%2Cformat&fit=max&w=900&s=3695e8365f38ebc7682bddad593e3969",
+    "students": [
+      {
+        "id": 1,
+        "name": "Tellixanım Quliyeva",
+        "age": 21,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 2,
+        "name": "Camal Zeynallı",
+        "age": 21,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 3,
+        "name": "Səbinə Həşimova",
+        "age": 20,
+        "university": "Bakı Dövlət Universiteti"
+      },
+      {
+        "id": 4,
+        "name": "Zərifə Qarayeva",
+        "age": 21,
+        "university": "Bakı Mühəndislik Universiteti"
+      },
+      {
+        "id": 5,
+        "name": "Ceyhun Zaman",
+        "age": 19,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 6,
+        "name": "Anar Əkbərli",
+        "age": 23,
+        "university": "Azərbaycan Memarlıq və İnşaat Universiteti"
+      },
+      {
+        "id": 7,
+        "name": "Maya Quliyeva",
+        "age": 19,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 8,
+        "name": "Zeynəb Fətəliyeva",
+        "age": 25,
+        "university": "Azərbaycan Dövlət Pedaqoji Universiteti"
+      },
+      {
+        "id": 9,
+        "name": "Şəlalə Sanılı",
+        "age": 19,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 10,
+        "name": "Nərmin Abbaszadə",
+        "age": 20,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 11,
+        "name": "Fərid Nağıyev",
+        "age": 19,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      }
+    ]
+  },
+  {
+    "id": "HR",
+    "title": "Human Recources",
+    "desc": "HR plays a crucial role in creating a positive work environment, ensuring legal compliance, and helping organizations effectively manage their workforce. The field of HR continues to evolve, with a growing emphasis on data-driven decision-making, employee experience, and adapting to changes in the modern workplace.",
+    "imageURL": "https://blog.vantagecircle.com/content/images/2020/07/critical-human-resources.png",
+    "students": [
+      {
+        "id": 1,
+        "name": "Vəsilə Mahmudova",
+        "age": 20,
+        "university": "Bakı Dövlət Universiteti"
+      },
+      {
+        "id": 2,
+        "name": "Ziyafət Soltanzadə",
+        "age": 19,
+        "university": "Xəzər Universiteti"
+      },
+      {
+        "id": 3,
+        "name": "Tamara Məmmədova",
+        "age": 22,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 4,
+        "name": "Lalə Əliyeva",
+        "age": 19,
+        "university": "Azərbaycan Dillər Universiteti"
+      },
+      {
+        "id": 5,
+        "name": "Gülnar Qaımova",
+        "age": 23,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 6,
+        "name": "Zabilə Quliyeva",
+        "age": 23,
+        "university": "Azərbaycan Texniki Universiteti"
+      },
+      {
+        "id": 7,
+        "name": "Hüseyn Nəsirov",
+        "age": 20,
+        "university": "Bakı Dövlət Universiteti"
+      },
+      {
+        "id": 8,
+        "name": "Fidan Qədirova",
+        "age": 23,
+        "university": "Bakı Dövlət Universiteti"
+      },
+      {
+        "id": 9,
+        "name": "Nurtac Süleymanlı",
+        "age": 22,
+        "university": "Bakı Dövlət Universiteti"
+      }
+    ]
+  },
+  {
+    "id": "CE",
+    "title": "Civil Engineering",
+    "desc": "Civil engineering plays a fundamental role in shaping the physical infrastructure of our society, from roads and bridges to water supply systems and iconic structures. It requires a deep understanding of physics, mathematics, and engineering principles, as well as the ability to work collaboratively and creatively to solve complex challenges in the built environment.",
+    "imageURL": "https://img.freepik.com/premium-photo/innovative-architecture-civil-engineering-plan_31965-5441.jpg?w=2000",
+    "students": [
+      {
+        "id": 1,
+        "name": "Namik Zöhrabov",
+        "age": 22,
+        "university": "Azərbaycan Memarlıq və İnşaat Universiteti"
+      },
+      {
+        "id": 2,
+        "name": "Nurlan Heydərov",
+        "age": 20,
+        "university": "Bakı Mühəndislik Universiteti"
+      }
+    ]
+  },
+  {
+    "id": "ACC",
+    "title": "Accounting",
+    "desc": "Accounting is a vital function for businesses and organizations of all sizes, as it provides insights into financial performance, helps with decision-making, and ensures compliance with financial regulations. It requires attention to detail, strong analytical skills, and an understanding of financial principles and standards.",
+    "imageURL": "https://s3.amazonaws.com/utep-uploads/wp-content/uploads/unr/2020/04/14121448/UNR-MACC-2020-Q1-Skyscraper-Types-of-Accounting-Jobs-header-v2-2-1.jpg",
+    "students": [
+      {
+        "id": 1,
+        "name": "Rəvan Süleymanlı",
+        "age": 20,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 2,
+        "name": "Mirseyid Seyidli",
+        "age": 21,
+        "university": "Azərbaycan Turizm və Menecment Universiteti"
+      },
+      {
+        "id": 3,
+        "name": "Ayişə Heydərli",
+        "age": 19,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 4,
+        "name": "Selcan Adilova",
+        "age": 19,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 5,
+        "name": "Turac Tahirova",
+        "age": 21,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 6,
+        "name": "Lamiyə Səməndərzadə",
+        "age": 21,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 7,
+        "name": "Yasəmən Sadıqova",
+        "age": 23,
+        "university": "Azərbaycan Dövlət Neft və Sənaye Universiteti"
+      },
+      {
+        "id": 8,
+        "name": "Ülkər Hacıyeva",
+        "age": 19,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 9,
+        "name": "Aydan Mehrabova",
+        "age": 21,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 10,
+        "name": "Zülfiyyə Əliyeva",
+        "age": 20,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 11,
+        "name": "Gülnaz Teymurlu",
+        "age": 23,
+        "university": "Bakı Mühəndislik Universiteti"
+      },
+      {
+        "id": 12,
+        "name": "Nəzrin İbrahimova",
+        "age": 20,
+        "university": "Bakı Avrasiya Universiteti"
+      }
+    ]
+  },
+  {
+    "id": "LP",
+    "title": "Logistics and Procurement",
+    "desc": "Effective logistics and procurement contribute to reduced costs, increased customer satisfaction, and streamlined operations. Both disciplines require collaboration, strong communication, attention to detail, and a deep understanding of the supply chain ecosystem.",
+    "imageURL": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/logistics.png",
+    "students": [
+      {
+        "id": 1,
+        "name": "Rza Osmanov",
+        "age": 18,
+        "university": "Azərbaycan Texniki Universiteti"
+      },
+      {
+        "id": 2,
+        "name": "Elgiz Quluzadə",
+        "age": 21,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 3,
+        "name": "Gülnur Məmmədova",
+        "age": 21,
+        "university": "Bakı Ali Neft Məktəbi"
+      },
+      {
+        "id": 4,
+        "name": "Sənan Zahidov",
+        "age": 20,
+        "university": "Azərbaycan Dövlət İqtisad Universiteti"
+      },
+      {
+        "id": 5,
+        "name": "Əfsər Mehdizadə",
+        "age": 20,
+        "university": "Bakı Mühəndislik Universiteti"
+      },
+      {
+        "id": 6,
+        "name": "Nərmin Ağamalıyeva",
+        "age": 20,
+        "university": "Bakı Dövlət Universiteti"
+      }
+    ]
+  }
+]

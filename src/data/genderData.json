@@ -1,0 +1,32 @@
+[
+  {
+    "name": "IT(WEB)",
+    "female": 11,
+    "male": 13
+  },
+  {
+    "name": "IT(DM)",
+    "female": 12,
+    "male": 4
+  },
+  {
+    "name": "IM",
+    "female": 3,
+    "male": 4
+  },
+  {
+    "name": "HR",
+    "female": 18,
+    "male": 5
+  },
+  {
+    "name": "ACC",
+    "female": 15,
+    "male": 8
+  },
+  {
+    "name": "LP",
+    "female": 4,
+    "male": 8
+  }
+]
