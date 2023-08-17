@@ -18,7 +18,7 @@ export const Header = () => {
     return (
         <div className="flex justify-between items-center mb-5">
             <div className="w-1/3">
-                <img src="../buta-logo.png" alt="" style={{ width: '350px', height: '100px' }} />
+                <img src="/buta-logo.png" alt="" style={{ width: '350px', height: '100px' }} />
             </div>
             <div className="w-1/3 flex justify-between items-center bg-gray-200 p-2.5 rounded">
                 <input type="text" placeholder="Search" className="bg-gray-200 w-full outline-none"
